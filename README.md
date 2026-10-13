@@ -1,2 +1,5 @@
-# gridsports
-GRIDSports: descargas y guía de uso.
+# TizaSports
+
+Análisis de video para entrenadores. Inteligencia aplicada al esfuerzo.
+
+https://tizasports.com.ar
